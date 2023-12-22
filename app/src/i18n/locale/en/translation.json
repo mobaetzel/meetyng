@@ -1,0 +1,71 @@
+{
+    "landing": {
+        "hero_caption": "Welcome to",
+        "hero_subtitle": "A simple way to organize your next meeting.",
+        "hero_cta": "Start Now",
+        "how_it_works_title": "How it works",
+        "how_it_works_text": "Simplifying Friend Gatherings! Say goodbye to scheduling headaches with Meetyng – effortlessly create a group, propose dates, and let friends vote. Communicate seamlessly through comments, share a unique event link, and consolidate decisions in one place. Enjoy hassle-free planning, secure data, and unforgettable moments with Meetyng – where organizing meets simplicity!",
+        "existing_groups_title": "Your existing groups",
+        "existing_groups_text": "Looks like you have some existing groups. Click on a group to view it.",
+        "start_now_title": "Start now by creating a new group.",
+        "start_now_cta": "Create a new group"
+    },
+    "edit": {
+        "tab_title_new": "New Group",
+        "tab_title_existing": "Edit Group"
+    },
+    "editStepper": {
+        "next": "Next",
+        "back": "Back",
+        "finish": "Finish",
+        "step1": "Your new meeting",
+        "step1_title_label": "Title",
+        "step1_title_placeholder": "My board game evening",
+        "step1_title_hint": "Enter a descriptive title for your meeting",
+        "step1_location_label": "Location",
+        "step1_location_placeholder": "My place",
+        "step1_location_hint": "Tell other people where you will meet",
+        "step1_description_label": "Description",
+        "step1_description_placeholder": "We will play some awesome board games!",
+        "step1_description_hint": "Enter a short description what you will do at your meeting",
+        "step2": "About yourself",
+        "step2_name_label": "Your name",
+        "step2_name_placeholder": "John Doe",
+        "step2_name_hint": "We will display your name on the meeting page to let other people know it's you",
+        "step2_email_label": "Your email address",
+        "step2_email_placeholder": "john.doe@mail.com",
+        "step2_email_hint": "We need your email address to send you the admin key to manage your meeting",
+        "step3": "Options"
+    },
+    "vote": {
+        "edit_tooltip": "Edit this group",
+        "link_label": "Link to this group",
+        "link_hint": "Share this link with your friends to let them vote",
+        "link_copied_toast": "Link copied to clipboard",
+        "options_title": "Options",
+        "comments_title": "Comments"
+    },
+    "not-found": {
+        "title": "Oh no!",
+        "subtitle": "The page you are looking for does not exist.",
+        "back": "Back to safety"
+    },
+    "option-area": {
+        "dialog_yes": "Yes",
+        "dialog_no": "No",
+        "dialog_maybe": "Maybe",
+        "dialog_close": "Close"
+    },
+    "comment-area": {
+        "comment_label": "Your comment",
+        "comment_placeholder": "Enter your comment here",
+        "send": "Send"
+    },
+    "username-dialog": {
+        "title": "Who are you?",
+        "name_label": "Your name",
+        "name_placeholder": "John Doe",
+        "name_hint": "We will display your name on the meeting page to let other people know it's you",
+        "ok": "OK"
+    }
+}

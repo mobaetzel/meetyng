@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS migrations
+(
+    "index" INTEGER PRIMARY KEY,
+    sha1    VARCHAR(40) NOT NULL
+);

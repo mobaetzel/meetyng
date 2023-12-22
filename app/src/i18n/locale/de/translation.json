@@ -1,0 +1,71 @@
+{
+    "landing": {
+        "hero_caption": "Willkommen bei",
+        "hero_subtitle": "Ein einfacher Weg, dein nächstes Treffen zu organisieren.",
+        "hero_cta": "Jetzt starten",
+        "how_it_works_title": "Wie es funktioniert",
+        "how_it_works_text": "Vereinfache Treffen mit Freunden! Sag Tschüss zu Planungsschwierigkeiten mit Meetyng – erstelle mühelos eine Gruppe, schlage Termine vor, und lass deine Freunde abstimmen. Kommuniziere reibungslos über Kommentare, teile einen einzigartigen Veranstaltungslink, und fasse Entscheidungen an einem Ort zusammen. Genieße eine stressfreie Planung, sichere Daten und unvergessliche Momente mit Meetyng – wo Organisation auf Einfachheit trifft!",
+        "existing_groups_title": "Deine bestehenden Gruppen",
+        "existing_groups_text": "Sieht aus, als hättest du bereits einige Gruppen. Klicke auf eine Gruppe, um sie anzuzeigen.",
+        "start_now_title": "Starte jetzt, indem du eine neue Gruppe erstellst.",
+        "start_now_cta": "Neue Gruppe erstellen"
+    },
+    "edit": {
+        "tab_title_new": "Neue Gruppe",
+        "tab_title_existing": "Gruppe bearbeiten"
+    },
+    "editStepper": {
+        "next": "Weiter",
+        "back": "Zurück",
+        "finish": "Fertigstellen",
+        "step1": "Dein neues Treffen",
+        "step1_title_label": "Titel",
+        "step1_title_placeholder": "Mein Spieleabend",
+        "step1_title_hint": "Gib einen aussagekräftigen Titel für dein Treffen ein",
+        "step1_location_label": "Ort",
+        "step1_location_placeholder": "Bei mir zuhause",
+        "step1_location_hint": "Teile anderen mit, wo ihr euch trefft",
+        "step1_description_label": "Beschreibung",
+        "step1_description_placeholder": "Wir werden einige großartige Brettspiele spielen!",
+        "step1_description_hint": "Gib eine kurze Beschreibung dessen ein, was du bei deinem Treffen machen wirst",
+        "step2": "Über dich",
+        "step2_name_label": "Dein Name",
+        "step2_name_placeholder": "Max Mustermann",
+        "step2_name_hint": "Wir zeigen deinen Namen auf der Veranstaltungsseite an, damit andere wissen, wer du bist",
+        "step2_email_label": "Deine E-Mail-Adresse",
+        "step2_email_placeholder": "max.mustermann@mail.de",
+        "step2_email_hint": "Wir benötigen deine E-Mail-Adresse, um dir den Admin-Schlüssel zur Verwaltung deines Treffens zu senden",
+        "step3": "Optionen"
+    },
+    "vote": {
+        "edit_tooltip": "Diese Gruppe bearbeiten",
+        "link_label": "Link zu dieser Gruppe",
+        "link_hint": "Teile diesen Link mit deinen Freunden, damit sie abstimmen können",
+        "link_copied_toast": "Link in die Zwischenablage kopiert",
+        "options_title": "Optionen",
+        "comments_title": "Kommentare"
+    },
+    "not-found": {
+        "title": "Oh nein!",
+        "subtitle": "Die Seite, die du suchst, existiert nicht.",
+        "back": "Zurück zur Sicherheit"
+    },
+    "option-area": {
+        "dialog_yes": "Ja",
+        "dialog_no": "Nein",
+        "dialog_maybe": "Vielleicht",
+        "dialog_close": "Schließen"
+    },
+    "comment-area": {
+        "comment_label": "Dein Kommentar",
+        "comment_placeholder": "Gib hier deinen Kommentar ein",
+        "send": "Senden"
+    },
+    "username-dialog": {
+        "title": "Wer bist du?",
+        "name_label": "Dein Name",
+        "name_placeholder": "Max Mustermann",
+        "name_hint": "Wir zeigen deinen Namen auf der Veranstaltungsseite an, damit andere wissen, wer du bist",
+        "ok": "OK"
+    }
+}

@@ -1,0 +1,4 @@
+/.idea/
+/src/web/
+/app/node_modules/
+*.iml
